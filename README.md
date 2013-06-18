@@ -6,7 +6,7 @@ It includes all the projects and test project needed. There is no code - just th
 
 ##How To Use It?
 + The template file called "DDD.zip"
-+ Copy the file to C:\Users\{your name}\Documents\Visual Studio 2012\Templates\ProjectTemplates\Visual C# 
++ Copy the file to "C:\Users\{your name}\Documents\Visual Studio 2012\Templates\ProjectTemplates\Visual C#"
 + Open VS and select "New Project"
 + Under "Visual C# Projects" find "DDD Project Template"
 + Give the solution a name you want and click "OK"
