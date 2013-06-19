@@ -1,4 +1,4 @@
-#DDD Boilerplate - A Project Template For Visual Studio
+#DDD Boilerplate - A C# Project Template For Visual Studio
 Creating a DDD solution involves creating many projects for to support DDD structure. This is a tedious job that repeats itself on every new project you create. I noticed most, if not all, projects could use this structure naturally and wanted to speed things up...
 
 I have created a DDD project template for VS2012 that makes all the work.
@@ -12,7 +12,7 @@ It includes all the projects and test project needed. There is no code - just th
 + Give the solution a name you want and click "OK"
 + You're on!
 
-##Improtant Note
+##Important Note
 Make sure you put this project in a folder with a short path like "C:\Projects". 
 
 Since the  namespacing is long, Windows find it hard to create a file with a long path, So don't use it for projects that sits under
